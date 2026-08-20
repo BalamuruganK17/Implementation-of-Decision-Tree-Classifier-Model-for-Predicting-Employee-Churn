@@ -131,15 +131,12 @@ importances = pd.Series(dt.feature_importances_, index=feature_cols).sort_values
 print("\nFeature importances:")
 display(importances)
 ```
-
 ## Output:
 <img width="1160" height="575" alt="image" src="https://github.com/user-attachments/assets/1591754a-c1c3-4de6-9300-d03b05cea2e9" />
 <img width="1153" height="482" alt="image" src="https://github.com/user-attachments/assets/b51d27c2-7093-4933-870d-ab1ec4c811ea" />
 <img width="1157" height="555" alt="image" src="https://github.com/user-attachments/assets/1cfea2da-8133-4fd5-bfbd-62c0338b4042" />
 <img width="1237" height="667" alt="image" src="https://github.com/user-attachments/assets/acf31c19-f270-4881-8dc7-5683eaa2a2b0" />
 <img width="465" height="347" alt="image" src="https://github.com/user-attachments/assets/d85741ca-26e3-42a1-ad9e-f4e84a05c585" />
-
-
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
